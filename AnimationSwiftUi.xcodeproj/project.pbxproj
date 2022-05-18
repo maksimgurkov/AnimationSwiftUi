@@ -11,6 +11,8 @@
 		76E378AE2833CA4A00789970 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E378AD2833CA4A00789970 /* ContentView.swift */; };
 		76E378B02833CA4B00789970 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76E378AF2833CA4B00789970 /* Assets.xcassets */; };
 		76E378B32833CA4B00789970 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76E378B22833CA4B00789970 /* Preview Assets.xcassets */; };
+		76E378BA2833CAD300789970 /* RocketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E378B92833CAD300789970 /* RocketView.swift */; };
+		76E378BC2834FB7800789970 /* FonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E378BB2834FB7800789970 /* FonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		76E378AD2833CA4A00789970 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		76E378AF2833CA4B00789970 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76E378B22833CA4B00789970 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		76E378B92833CAD300789970 /* RocketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketView.swift; sourceTree = "<group>"; };
+		76E378BB2834FB7800789970 /* FonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				76E378AB2833CA4A00789970 /* AnimationSwiftUiApp.swift */,
 				76E378AD2833CA4A00789970 /* ContentView.swift */,
+				76E378B92833CAD300789970 /* RocketView.swift */,
+				76E378BB2834FB7800789970 /* FonView.swift */,
 				76E378AF2833CA4B00789970 /* Assets.xcassets */,
 				76E378B12833CA4B00789970 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				76E378AE2833CA4A00789970 /* ContentView.swift in Sources */,
 				76E378AC2833CA4A00789970 /* AnimationSwiftUiApp.swift in Sources */,
+				76E378BC2834FB7800789970 /* FonView.swift in Sources */,
+				76E378BA2833CAD300789970 /* RocketView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
